@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/> 
+     <img src="https://upload.wikimedia.org/wikipedia/en/8/87/Sql_server_logo.png" alt="SQL Server" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
